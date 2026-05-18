@@ -1,0 +1,7 @@
+
+path: D:\AAI_PROJECT\data\provident-vehicle-detection-at-night-pvdn\PVDN\night\yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: light
