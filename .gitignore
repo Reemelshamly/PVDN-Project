@@ -46,19 +46,17 @@ dist/
 *.npz
 
 # Large datasets and outputs (exclude entire directories)
-uploads/
-blob_tracking_outputs/
-patch_video_outputs/
-training_outputs/
-runs/
-outputs/
 test/
+uploads/
 train/
 val/
-yolo_dataset/
-DemoVideos/
-models/
-night/
+night/test
+night/train
+night/val
+*.mp4
+*.avi
+*.mov
+night/nightvid.mp4
 
 # IDE
 .vscode/
