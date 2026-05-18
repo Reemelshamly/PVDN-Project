@@ -53,6 +53,10 @@ val/
 night/test
 night/train
 night/val
+*.mp4
+*.avi
+*.mov
+night/nightvid.mp4
 
 # IDE
 .vscode/
